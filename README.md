@@ -1,5 +1,10 @@
 # ♟️ Custom C++ Chess Engine (Qt Framework)
 
+![C++](https://img.shields.io/badge/C++-20-blue?logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Framework-Qt_6-green?logo=qt&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/IDE-Visual_Studio-purple?logo=visualstudio&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A sophisticated Chess engine and GUI built with **C++20** and **Qt 6**. This project implements core chess mechanics including check detection, move validation, and board state simulation using the RAII pattern.
 
 ---
